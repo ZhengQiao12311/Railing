@@ -13,7 +13,7 @@ The point clouds for the high, medium, and low resolution of the Railing 1 menti
     - Railing1_low_046.las  
 ## Application  
 To measure the railing, run **main_railing1_044.m** (high resolution), **main_railing1_045.m** (medium resolution), and **main_railing1_046.m** (low resolution).  
-The other **.m** files are the functions used in the main function and need to be placed in the same folder as the main file before running.  
+The other **.m** files are the functions used in the main function and need to be placed in the same folder as the main function before running.  
 ## Measurement results  
 The measurement code for the railing ends at **line 215** of the main function, followed by some validation code and code to write the measurement result to **data_1_0718.xlsx**.  
 Note that you need to uncomment to activate the corresponding code.

@@ -19,3 +19,4 @@ The measurement code for the railing ends at **line 215** of the main function, 
 Note that you need to uncomment to activate the corresponding code.  
 ## Citation  
 If you find our work useful in your research, please consider citing.
+<https://doi.org/10.1016/j.measurement.2024.115321>
